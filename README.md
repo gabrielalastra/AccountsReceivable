@@ -8,6 +8,8 @@
   <li>Number of times the customer has disputed invoiced.
   
 <li>The dashboard is available on <a href='https://public.tableau.com/views/AccountsReceivable_16463225078900/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link'> <img align="center" alt="Gabb-tableau" height="45" width="40" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png"/> TABLEAU</a></li>
+<hr>
+<img src='https://github.com/gabrielalastra/TABLEAU/blob/main/Accounts_Receivable.png?raw=true'/>
 
 </body>
   
